@@ -40,6 +40,6 @@ resource "aws_security_group" "sg1" {
   }
 
   tags = {
-    Name = "sg1"
+    Name = "security group"
   }
 }
