@@ -43,7 +43,3 @@ resource "aws_security_group" "sg1" {
     Name = "sg1"
   }
 }
-
-resource "aws_security_group" "sg2" {
-  name = "sg2"
-}
